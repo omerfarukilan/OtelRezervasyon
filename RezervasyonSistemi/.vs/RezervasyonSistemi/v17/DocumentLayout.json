@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u00D6mer Faruk\\Desktop\\Projeler\\C# Proje\\NesneY\u00F6nelimliProgramlama\\RezervasyonSistemi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{993838B1-27AA-47F1-A8C0-69A5135EBC98}|RezervasyonSistemi\\RezervasyonSistemi.csproj|C:\\Users\\\u00D6mer Faruk\\Desktop\\Projeler\\C# Proje\\NesneY\u00F6nelimliProgramlama\\RezervasyonSistemi\\rezervasyonsistemi\\formlar\\musteriislem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{993838B1-27AA-47F1-A8C0-69A5135EBC98}|RezervasyonSistemi\\RezervasyonSistemi.csproj|solutionrelative:rezervasyonsistemi\\formlar\\musteriislem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993838B1-27AA-47F1-A8C0-69A5135EBC98}|RezervasyonSistemi\\RezervasyonSistemi.csproj|C:\\Users\\\u00D6mer Faruk\\Desktop\\Projeler\\C# Proje\\NesneY\u00F6nelimliProgramlama\\RezervasyonSistemi\\rezervasyonsistemi\\formlar\\rezervasyonislem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{993838B1-27AA-47F1-A8C0-69A5135EBC98}|RezervasyonSistemi\\RezervasyonSistemi.csproj|solutionrelative:rezervasyonsistemi\\formlar\\rezervasyonislem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993838B1-27AA-47F1-A8C0-69A5135EBC98}|RezervasyonSistemi\\RezervasyonSistemi.csproj|C:\\Users\\\u00D6mer Faruk\\Desktop\\Projeler\\C# Proje\\NesneY\u00F6nelimliProgramlama\\RezervasyonSistemi\\rezervasyonsistemi\\formlar\\odaislem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{993838B1-27AA-47F1-A8C0-69A5135EBC98}|RezervasyonSistemi\\RezervasyonSistemi.csproj|solutionrelative:rezervasyonsistemi\\formlar\\odaislem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993838B1-27AA-47F1-A8C0-69A5135EBC98}|RezervasyonSistemi\\RezervasyonSistemi.csproj|C:\\Users\\\u00D6mer Faruk\\Desktop\\Projeler\\C# Proje\\NesneY\u00F6nelimliProgramlama\\RezervasyonSistemi\\rezervasyonsistemi\\formlar\\yoneticiekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{993838B1-27AA-47F1-A8C0-69A5135EBC98}|RezervasyonSistemi\\RezervasyonSistemi.csproj|solutionrelative:rezervasyonsistemi\\formlar\\yoneticiekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993838B1-27AA-47F1-A8C0-69A5135EBC98}|RezervasyonSistemi\\RezervasyonSistemi.csproj|C:\\Users\\\u00D6mer Faruk\\Desktop\\Projeler\\C# Proje\\NesneY\u00F6nelimliProgramlama\\RezervasyonSistemi\\rezervasyonsistemi\\formlar\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{993838B1-27AA-47F1-A8C0-69A5135EBC98}|RezervasyonSistemi\\RezervasyonSistemi.csproj|solutionrelative:rezervasyonsistemi\\formlar\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993838B1-27AA-47F1-A8C0-69A5135EBC98}|RezervasyonSistemi\\RezervasyonSistemi.csproj|c:\\users\\\u00F6mer faruk\\desktop\\projeler\\c# proje\\nesney\u00F6nelimliprogramlama\\rezervasyonsistemi\\rezervasyonsistemi\\dao\\odadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{993838B1-27AA-47F1-A8C0-69A5135EBC98}|RezervasyonSistemi\\RezervasyonSistemi.csproj|solutionrelative:rezervasyonsistemi\\dao\\odadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993838B1-27AA-47F1-A8C0-69A5135EBC98}|RezervasyonSistemi\\RezervasyonSistemi.csproj|c:\\users\\\u00F6mer faruk\\desktop\\projeler\\c# proje\\nesney\u00F6nelimliprogramlama\\rezervasyonsistemi\\rezervasyonsistemi\\dao\\dbbaglanti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{993838B1-27AA-47F1-A8C0-69A5135EBC98}|RezervasyonSistemi\\RezervasyonSistemi.csproj|solutionrelative:rezervasyonsistemi\\dao\\dbbaglanti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993838B1-27AA-47F1-A8C0-69A5135EBC98}|RezervasyonSistemi\\RezervasyonSistemi.csproj|c:\\users\\\u00F6mer faruk\\desktop\\projeler\\c# proje\\nesney\u00F6nelimliprogramlama\\rezervasyonsistemi\\rezervasyonsistemi\\dao\\musteridao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{993838B1-27AA-47F1-A8C0-69A5135EBC98}|RezervasyonSistemi\\RezervasyonSistemi.csproj|solutionrelative:rezervasyonsistemi\\dao\\musteridao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993838B1-27AA-47F1-A8C0-69A5135EBC98}|RezervasyonSistemi\\RezervasyonSistemi.csproj|C:\\Users\\\u00D6mer Faruk\\Desktop\\Projeler\\C# Proje\\NesneY\u00F6nelimliProgramlama\\RezervasyonSistemi\\rezervasyonsistemi\\formlar\\rezervasyonislem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{993838B1-27AA-47F1-A8C0-69A5135EBC98}|RezervasyonSistemi\\RezervasyonSistemi.csproj|solutionrelative:rezervasyonsistemi\\formlar\\rezervasyonislem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993838B1-27AA-47F1-A8C0-69A5135EBC98}|RezervasyonSistemi\\RezervasyonSistemi.csproj|C:\\Users\\\u00D6mer Faruk\\Desktop\\Projeler\\C# Proje\\NesneY\u00F6nelimliProgramlama\\RezervasyonSistemi\\rezervasyonsistemi\\formlar\\yoneticiekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{993838B1-27AA-47F1-A8C0-69A5135EBC98}|RezervasyonSistemi\\RezervasyonSistemi.csproj|solutionrelative:rezervasyonsistemi\\formlar\\yoneticiekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993838B1-27AA-47F1-A8C0-69A5135EBC98}|RezervasyonSistemi\\RezervasyonSistemi.csproj|C:\\Users\\\u00D6mer Faruk\\Desktop\\Projeler\\C# Proje\\NesneY\u00F6nelimliProgramlama\\RezervasyonSistemi\\rezervasyonsistemi\\formlar\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{993838B1-27AA-47F1-A8C0-69A5135EBC98}|RezervasyonSistemi\\RezervasyonSistemi.csproj|solutionrelative:rezervasyonsistemi\\formlar\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993838B1-27AA-47F1-A8C0-69A5135EBC98}|RezervasyonSistemi\\RezervasyonSistemi.csproj|c:\\users\\\u00F6mer faruk\\desktop\\projeler\\c# proje\\nesney\u00F6nelimliprogramlama\\rezervasyonsistemi\\rezervasyonsistemi\\formlar\\odaislem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{993838B1-27AA-47F1-A8C0-69A5135EBC98}|RezervasyonSistemi\\RezervasyonSistemi.csproj|solutionrelative:rezervasyonsistemi\\formlar\\odaislem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993838B1-27AA-47F1-A8C0-69A5135EBC98}|RezervasyonSistemi\\RezervasyonSistemi.csproj|C:\\Users\\\u00D6mer Faruk\\Desktop\\Projeler\\C# Proje\\NesneY\u00F6nelimliProgramlama\\RezervasyonSistemi\\rezervasyonsistemi\\formlar\\musteriislem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{993838B1-27AA-47F1-A8C0-69A5135EBC98}|RezervasyonSistemi\\RezervasyonSistemi.csproj|solutionrelative:rezervasyonsistemi\\formlar\\musteriislem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer Faruk\\Desktop\\Projeler\\C# Proje\\NesneY\u00F6nelimliProgramlama\\RezervasyonSistemi\\RezervasyonSistemi\\Formlar\\Form1.cs",
+              "RelativeDocumentMoniker": "RezervasyonSistemi\\Formlar\\Form1.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer Faruk\\Desktop\\Projeler\\C# Proje\\NesneY\u00F6nelimliProgramlama\\RezervasyonSistemi\\RezervasyonSistemi\\Formlar\\Form1.cs [Design]",
+              "RelativeToolTip": "RezervasyonSistemi\\Formlar\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T14:28:08.585Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer Faruk\\Desktop\\Projeler\\C# Proje\\NesneY\u00F6nelimliProgramlama\\RezervasyonSistemi\\RezervasyonSistemi\\Formlar\\Form1.cs",
+              "RelativeDocumentMoniker": "RezervasyonSistemi\\Formlar\\Form1.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer Faruk\\Desktop\\Projeler\\C# Proje\\NesneY\u00F6nelimliProgramlama\\RezervasyonSistemi\\RezervasyonSistemi\\Formlar\\Form1.cs",
+              "RelativeToolTip": "RezervasyonSistemi\\Formlar\\Form1.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAuwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:57:49.238Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "YoneticiEkran.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer Faruk\\Desktop\\Projeler\\C# Proje\\NesneY\u00F6nelimliProgramlama\\RezervasyonSistemi\\RezervasyonSistemi\\Formlar\\YoneticiEkran.cs",
+              "RelativeDocumentMoniker": "RezervasyonSistemi\\Formlar\\YoneticiEkran.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer Faruk\\Desktop\\Projeler\\C# Proje\\NesneY\u00F6nelimliProgramlama\\RezervasyonSistemi\\RezervasyonSistemi\\Formlar\\YoneticiEkran.cs [Design]",
+              "RelativeToolTip": "RezervasyonSistemi\\Formlar\\YoneticiEkran.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T14:17:57.567Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OdaIslem.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer Faruk\\Desktop\\Projeler\\C# Proje\\NesneY\u00F6nelimliProgramlama\\RezervasyonSistemi\\RezervasyonSistemi\\Formlar\\OdaIslem.cs",
+              "RelativeDocumentMoniker": "RezervasyonSistemi\\Formlar\\OdaIslem.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer Faruk\\Desktop\\Projeler\\C# Proje\\NesneY\u00F6nelimliProgramlama\\RezervasyonSistemi\\RezervasyonSistemi\\Formlar\\OdaIslem.cs [Design]",
+              "RelativeToolTip": "RezervasyonSistemi\\Formlar\\OdaIslem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T09:25:32.249Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "YoneticiEkran.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer Faruk\\Desktop\\Projeler\\C# Proje\\NesneY\u00F6nelimliProgramlama\\RezervasyonSistemi\\RezervasyonSistemi\\Formlar\\YoneticiEkran.cs",
+              "RelativeDocumentMoniker": "RezervasyonSistemi\\Formlar\\YoneticiEkran.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer Faruk\\Desktop\\Projeler\\C# Proje\\NesneY\u00F6nelimliProgramlama\\RezervasyonSistemi\\RezervasyonSistemi\\Formlar\\YoneticiEkran.cs",
+              "RelativeToolTip": "RezervasyonSistemi\\Formlar\\YoneticiEkran.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAnwBwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:57:37.772Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OdaIslem.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer Faruk\\Desktop\\Projeler\\C# Proje\\NesneY\u00F6nelimliProgramlama\\RezervasyonSistemi\\RezervasyonSistemi\\Formlar\\OdaIslem.cs",
+              "RelativeDocumentMoniker": "RezervasyonSistemi\\Formlar\\OdaIslem.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer Faruk\\Desktop\\Projeler\\C# Proje\\NesneY\u00F6nelimliProgramlama\\RezervasyonSistemi\\RezervasyonSistemi\\Formlar\\OdaIslem.cs",
+              "RelativeToolTip": "RezervasyonSistemi\\Formlar\\OdaIslem.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAqwLYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T19:46:34.268Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MusteriIslem.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer Faruk\\Desktop\\Projeler\\C# Proje\\NesneY\u00F6nelimliProgramlama\\RezervasyonSistemi\\RezervasyonSistemi\\Formlar\\MusteriIslem.cs",
+              "RelativeDocumentMoniker": "RezervasyonSistemi\\Formlar\\MusteriIslem.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer Faruk\\Desktop\\Projeler\\C# Proje\\NesneY\u00F6nelimliProgramlama\\RezervasyonSistemi\\RezervasyonSistemi\\Formlar\\MusteriIslem.cs",
+              "RelativeToolTip": "RezervasyonSistemi\\Formlar\\MusteriIslem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:58:25.546Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RezervasyonIslem.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer Faruk\\Desktop\\Projeler\\C# Proje\\NesneY\u00F6nelimliProgramlama\\RezervasyonSistemi\\RezervasyonSistemi\\Formlar\\RezervasyonIslem.cs",
+              "RelativeDocumentMoniker": "RezervasyonSistemi\\Formlar\\RezervasyonIslem.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer Faruk\\Desktop\\Projeler\\C# Proje\\NesneY\u00F6nelimliProgramlama\\RezervasyonSistemi\\RezervasyonSistemi\\Formlar\\RezervasyonIslem.cs [Design]",
+              "RelativeToolTip": "RezervasyonSistemi\\Formlar\\RezervasyonIslem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T17:08:22.694Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RezervasyonIslem.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer Faruk\\Desktop\\Projeler\\C# Proje\\NesneY\u00F6nelimliProgramlama\\RezervasyonSistemi\\RezervasyonSistemi\\Formlar\\RezervasyonIslem.cs",
+              "RelativeDocumentMoniker": "RezervasyonSistemi\\Formlar\\RezervasyonIslem.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer Faruk\\Desktop\\Projeler\\C# Proje\\NesneY\u00F6nelimliProgramlama\\RezervasyonSistemi\\RezervasyonSistemi\\Formlar\\RezervasyonIslem.cs",
+              "RelativeToolTip": "RezervasyonSistemi\\Formlar\\RezervasyonIslem.cs",
+              "ViewState": "AgIAAOkAAAAAAAAAAAAAAPgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:58:42.021Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OdaDAO.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer Faruk\\Desktop\\Projeler\\C# Proje\\NesneY\u00F6nelimliProgramlama\\RezervasyonSistemi\\RezervasyonSistemi\\DAO\\OdaDAO.cs",
+              "RelativeDocumentMoniker": "RezervasyonSistemi\\DAO\\OdaDAO.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer Faruk\\Desktop\\Projeler\\C# Proje\\NesneY\u00F6nelimliProgramlama\\RezervasyonSistemi\\RezervasyonSistemi\\DAO\\OdaDAO.cs",
+              "RelativeToolTip": "RezervasyonSistemi\\DAO\\OdaDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T14:26:48.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MusteriDAO.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer Faruk\\Desktop\\Projeler\\C# Proje\\NesneY\u00F6nelimliProgramlama\\RezervasyonSistemi\\RezervasyonSistemi\\DAO\\MusteriDAO.cs",
+              "RelativeDocumentMoniker": "RezervasyonSistemi\\DAO\\MusteriDAO.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer Faruk\\Desktop\\Projeler\\C# Proje\\NesneY\u00F6nelimliProgramlama\\RezervasyonSistemi\\RezervasyonSistemi\\DAO\\MusteriDAO.cs",
+              "RelativeToolTip": "RezervasyonSistemi\\DAO\\MusteriDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T14:25:32.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dbBaglanti.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer Faruk\\Desktop\\Projeler\\C# Proje\\NesneY\u00F6nelimliProgramlama\\RezervasyonSistemi\\RezervasyonSistemi\\DAO\\dbBaglanti.cs",
+              "RelativeDocumentMoniker": "RezervasyonSistemi\\DAO\\dbBaglanti.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer Faruk\\Desktop\\Projeler\\C# Proje\\NesneY\u00F6nelimliProgramlama\\RezervasyonSistemi\\RezervasyonSistemi\\DAO\\dbBaglanti.cs",
+              "RelativeToolTip": "RezervasyonSistemi\\DAO\\dbBaglanti.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T13:56:35.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MusteriIslem.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer Faruk\\Desktop\\Projeler\\C# Proje\\NesneY\u00F6nelimliProgramlama\\RezervasyonSistemi\\RezervasyonSistemi\\Formlar\\MusteriIslem.cs",
+              "RelativeDocumentMoniker": "RezervasyonSistemi\\Formlar\\MusteriIslem.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer Faruk\\Desktop\\Projeler\\C# Proje\\NesneY\u00F6nelimliProgramlama\\RezervasyonSistemi\\RezervasyonSistemi\\Formlar\\MusteriIslem.cs [Design]",
+              "RelativeToolTip": "RezervasyonSistemi\\Formlar\\MusteriIslem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T14:14:45.225Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
